@@ -1,0 +1,18 @@
+[submodule "APHTTP"]
+	path = APHTTP
+	url = https://github.com/AP-ECE-UT/APHTTP
+[submodule "Game-Material"]
+	path = Game-Material
+	url = https://github.com/AP-ECE-UT/Game-Material
+[submodule "AP-Notes"]
+	path = AP-Notes
+	url = https://github.com/AP-ECE-UT/AP-Notes
+[submodule "Projects/Archive-S03"]
+	path = Projects/Archive-S03
+	url = https://github.com/AP-ECE-UT/Archive-S03
+[submodule "Projects/Archive-F02"]
+	path = Projects/Archive-F02
+	url = https://github.com/AP-ECE-UT/Archive-F02
+[submodule "Mag"]
+	path = Mag
+	url = https://github.com/AP-ECE-UT/Mag
